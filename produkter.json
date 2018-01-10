@@ -1,0 +1,136 @@
+[
+    {
+        "id": 1,
+        "prodName": "GEOMETRIC PRINT DRESS WITH FINE PLEATS",
+        "prodDesc": "Pleated geometric print dress with grosgrain details. Features an A-line silhouette, round neckline, side zip fastening and a button at the back, stretch waist at the back, no sleeves and lining",
+        "prodPrice": 1999,
+        "image":"women_dress1.jpg",
+        "huvudKat": 1,
+        "underKat": 1
+    },{
+        "id": 2,
+        "prodName": "MAXI PURL KNIT SWEATER WITH PUFF SLEEVE DETAIL",
+        "prodDesc": "Maxi purl knit sweater. Featuring a straight fit, polo neck and long puff sleeves.",
+        "prodPrice": 799,
+        "image":"women_dress2.jpg",
+        "huvudKat": 1,
+        "underKat": 1
+    },
+    {
+        "id": 3,
+        "prodName": "SILK DRESS WITH VELVET PRINT",
+        "prodDesc": "Dress with velvet print. Features an A-line silhouette, round neckline with grosgrain bow detail, side zip fastening, stretch waist at the back, long puff sleeves with grosgrain bow on the cuffs, side vents at the hem and lining.",
+        "prodPrice": 1599,
+        "image":"women_dress3.jpg",
+        "huvudKat": 1,
+        "underKat": 1
+    },
+    {
+        "id": 4,
+        "prodName": "GEOMETRIC GUIPURE DRESS",
+        "prodDesc": "Guipure dress with geometric design. Featuring a tailored fit, square-cut neckline, zip and hook and eye fastening in the back, 3/4 length sleeves and lining.",
+        "prodPrice": 999,
+        "image":"women_dress4.jpg",
+        "huvudKat": 1,
+        "underKat": 1
+    },
+    {
+        "id": 5,
+        "prodName": "COTTON TRENCH COAT WITH BELT DETAIL",
+        "prodDesc": "Trench coat with belt detail, made from 100% cotton. Features an A-line silhouette, Kent collar, hooked undercollar with buttoned tab, double-breasted button fastening, two side besom pockets, long sleeves with a strap and buckle on each cuff, anti-storm lapel, vent in the back, belt loops, lining and several inside pockets.",
+        "prodPrice": 1699,
+        "image":"women_jacket1.jpg",
+        "huvudKat": 1,
+        "underKat": 2
+    },
+    {
+        "id": 6,
+        "prodName": "REVERSIBLE PRINTED DOWN JACKET",
+        "prodDesc": "Reversible jacket with natural down feather interior. The printed model features a slim fit, collar with hood, zip-up fastening, two side zip pockets and long sleeves.",
+        "prodPrice": 999,
+        "image":"women_jacket2.jpg",
+        "huvudKat": 1,
+        "underKat": 2
+    },
+    {
+        "id": 7,
+        "prodName": "SUEDE TRENCH COAT WITH BELT DETAIL",
+        "prodDesc": "Suede trench coat with belt detail, made of sheepskin leather. Features a straight fit, Kent collar, snap button fastening concealed by a placket, two side patch pockets, anti-storm lapels, long sleeves and one back vent.",
+        "prodPrice": 3599,
+        "image":"women_jacket3.jpg",
+        "huvudKat": 1,
+        "underKat": 2
+    },
+    {
+        "id": 8,
+        "prodName": "REVERSIBLE MOUTON FUR COAT",
+        "prodDesc": "Reversible red coat, made of Spanish sheepskin leather. The mouton model features a straight fit, notched lapel collar, hook and eye fastening, two side pockets and long sleeves.",
+        "prodPrice": 7999,
+        "image":"women_jacket4.jpg",
+        "huvudKat": 1,
+        "underKat": 2
+    },
+    {
+        "id": 9,
+        "prodName": "GEOMETRIC PRINT SHIRT WITH PLEATED SLEEVE",
+        "prodDesc": "Geometric print short with pleat detail on the sleeves. Features a straight fit, round neckline, button-up fastening concealed by a placket and long puff sleeves with buttoned cuffs.",
+        "prodPrice": 699,
+        "image":"women_shirt1.jpg",
+        "huvudKat": 1,
+        "underKat": 3
+    },
+    {
+        "id": 10,
+        "prodName": "PLUMETIS BLOUSE WITH PUFFY SLEEVE",
+        "prodDesc": "Dotted mesh blouse. Featuring a straight fit, round neckline, one-button fastening in the back, long puff sleeves and lining.",
+        "prodPrice": 699,
+        "image":"women_shirt2.jpg",
+        "huvudKat": 1,
+        "underKat": 3
+    },
+    {
+        "id": 11,
+        "prodName": "STRETCH FIT SOLID SHIRT WITH SEAM DETAIL",
+        "prodDesc": "Solid shirt with seam detail, made from comfort cotton fabric.",
+        "prodPrice": 499,
+        "image":"women_shirt3.jpg",
+        "huvudKat": 1,
+        "underKat": 3
+    },
+    {
+        "id": 12,
+        "prodName": "STRIPED COTTON SHIRT",
+        "prodDesc": "Striped shirt made from 100% cotton fabric. Features a straight fit, Kent collar, button-up fastening concealed by a placket, long puff sleeves with buttoned cuffs and a rounded hem with side vents.",
+        "prodPrice": 699,
+        "image":"women_shirt4.jpg",
+        "huvudKat": 1,
+        "underKat": 3
+    },
+    {
+        "id": 13,
+        "prodName": "NAPPA JACKET WITH TAB DETAIL",
+        "prodDesc": "Nappa jacket made of sheepskin leather. Featuring a tailored fit, stand collar with a buttoned tab, front zip fastening, two side zip pockets, long sleeves with zipped cuffs, lining and several inside pockets.",
+        "prodPrice": 2699,
+        "image":"men_jacket1.jpg",
+        "huvudKat": 2,
+        "underKat": 1
+    },
+    {
+        "id": 14,
+        "prodName": "GREY SUEDE JACKET",
+        "prodDesc": "Suede jacket made from sheepskin leather. Features a slim fit, collar with tab and snap button, zip fastening, two side zip pockets, long sleeves with zipped cuffs, side tabs for adjusting the fit, decorative appliqué, lining and several inside pockets.",
+        "prodPrice": 3299,
+        "image":"men_jacket2.jpg",
+        "huvudKat": 2,
+        "underKat": 1
+    },
+    {
+        "id": 14,
+        "prodName": "GREY SUEDE JACKET",
+        "prodDesc": "Suede jacket made from sheepskin leather. Features a slim fit, collar with tab and snap button, zip fastening, two side zip pockets, long sleeves with zipped cuffs, side tabs for adjusting the fit, decorative appliqué, lining and several inside pockets.",
+        "prodPrice": 3299,
+        "image":"men_jacket3.jpg",
+        "huvudKat": 2,
+        "underKat": 1
+    }
+]
