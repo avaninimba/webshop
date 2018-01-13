@@ -33,17 +33,18 @@ function createUIFromLoadedItemsData() {
 }
 
 function createListItem(itemData, index) {
-    /* Title */
-    var prodName = document.createElement("h3");
-    prodName.innerText = itemData.prodName;
-    
-    /* prodDesc */
-    var prodDesc = document.createElement("p");
-    prodDesc.innerText = itemData.prodDesc;
     
     /* Image */
     var image = document.createElement("img");
     image.src = "./images/" + itemData.image;
+
+     /* Title */
+     var prodName = document.createElement("h3");
+     prodName.innerText = itemData.prodName;
+     
+     /* prodDesc */
+     var prodDesc = document.createElement("p");
+     prodDesc.innerText = itemData.prodDesc;
 
     /* Price */
     var prodPrice = document.createElement("span");
@@ -59,9 +60,9 @@ function createListItem(itemData, index) {
     };
 
     var item = document.createElement("li");
+    item.appendChild(image);
     item.appendChild(prodName);
     item.appendChild(prodDesc);
-    item.appendChild(image);
     item.appendChild(prodPrice);
     item.appendChild(button);
 

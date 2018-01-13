@@ -36,10 +36,10 @@ header a:hover {
 }
 
 #main {
-    color: #212121;
+    color: black;
     font-weight: bold;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     justify-content: center;
 }
@@ -63,7 +63,7 @@ li {
 }
 
 li h3 {
-    font-size: 3em;
+    font-size: 0.75em;
     margin: 0;
 }
 li img {
