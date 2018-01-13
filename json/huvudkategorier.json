@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "countryname": "Women"
+    },{
+        "id": 2,
+        "countryname": "Men"
+    },{
+        "id": 3,
+        "countryname": "Boys"
+    },{
+        "id": 4,
+        "countryname": "Girls"
+    }
+]

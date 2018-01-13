@@ -1,0 +1,434 @@
+[
+    {
+        "id": 1,
+        "prodName": "GEOMETRIC PRINT DRESS WITH FINE PLEATS",
+        "prodDesc": "Pleated geometric print dress with grosgrain details. Features an A-line silhouette, round neckline, side zip fastening and a button at the back, stretch waist at the back, no sleeves and lining",
+        "prodPrice": 1999,
+        "image":"women_dress1.jpg",
+        "huvudKat": 1,
+        "underKat": 1
+    },{
+        "id": 2,
+        "prodName": "MAXI PURL KNIT SWEATER WITH PUFF SLEEVE DETAIL",
+        "prodDesc": "Maxi purl knit sweater. Featuring a straight fit, polo neck and long puff sleeves.",
+        "prodPrice": 799,
+        "image":"women_dress2.jpg",
+        "huvudKat": 1,
+        "underKat": 1
+    },
+    {
+        "id": 3,
+        "prodName": "SILK DRESS WITH VELVET PRINT",
+        "prodDesc": "Dress with velvet print. Features an A-line silhouette, round neckline with grosgrain bow detail, side zip fastening, stretch waist at the back, long puff sleeves with grosgrain bow on the cuffs, side vents at the hem and lining.",
+        "prodPrice": 1599,
+        "image":"women_dress3.jpg",
+        "huvudKat": 1,
+        "underKat": 1
+    },
+    {
+        "id": 4,
+        "prodName": "GEOMETRIC GUIPURE DRESS",
+        "prodDesc": "Guipure dress with geometric design. Featuring a tailored fit, square-cut neckline, zip and hook and eye fastening in the back, 3/4 length sleeves and lining.",
+        "prodPrice": 999,
+        "image":"women_dress4.jpg",
+        "huvudKat": 1,
+        "underKat": 1
+    },
+    {
+        "id": 5,
+        "prodName": "COTTON TRENCH COAT WITH BELT DETAIL",
+        "prodDesc": "Trench coat with belt detail, made from 100% cotton. Features an A-line silhouette, Kent collar, hooked undercollar with buttoned tab, double-breasted button fastening, two side besom pockets, long sleeves with a strap and buckle on each cuff, anti-storm lapel, vent in the back, belt loops, lining and several inside pockets.",
+        "prodPrice": 1699,
+        "image":"women_jacket1.jpg",
+        "huvudKat": 1,
+        "underKat": 2
+    },
+    {
+        "id": 6,
+        "prodName": "REVERSIBLE PRINTED DOWN JACKET",
+        "prodDesc": "Reversible jacket with natural down feather interior. The printed model features a slim fit, collar with hood, zip-up fastening, two side zip pockets and long sleeves.",
+        "prodPrice": 999,
+        "image":"women_jacket2.jpg",
+        "huvudKat": 1,
+        "underKat": 2
+    },
+    {
+        "id": 7,
+        "prodName": "SUEDE TRENCH COAT WITH BELT DETAIL",
+        "prodDesc": "Suede trench coat with belt detail, made of sheepskin leather. Features a straight fit, Kent collar, snap button fastening concealed by a placket, two side patch pockets, anti-storm lapels, long sleeves and one back vent.",
+        "prodPrice": 3599,
+        "image":"women_jacket3.jpg",
+        "huvudKat": 1,
+        "underKat": 2
+    },
+    {
+        "id": 8,
+        "prodName": "REVERSIBLE MOUTON FUR COAT",
+        "prodDesc": "Reversible red coat, made of Spanish sheepskin leather. The mouton model features a straight fit, notched lapel collar, hook and eye fastening, two side pockets and long sleeves.",
+        "prodPrice": 7999,
+        "image":"women_jacket4.jpg",
+        "huvudKat": 1,
+        "underKat": 2
+    },
+    {
+        "id": 9,
+        "prodName": "GEOMETRIC PRINT SHIRT WITH PLEATED SLEEVE",
+        "prodDesc": "Geometric print short with pleat detail on the sleeves. Features a straight fit, round neckline, button-up fastening concealed by a placket and long puff sleeves with buttoned cuffs.",
+        "prodPrice": 699,
+        "image":"women_shirt1.jpg",
+        "huvudKat": 1,
+        "underKat": 3
+    },
+    {
+        "id": 10,
+        "prodName": "PLUMETIS BLOUSE WITH PUFFY SLEEVE",
+        "prodDesc": "Dotted mesh blouse. Featuring a straight fit, round neckline, one-button fastening in the back, long puff sleeves and lining.",
+        "prodPrice": 699,
+        "image":"women_shirt2.jpg",
+        "huvudKat": 1,
+        "underKat": 3
+    },
+    {
+        "id": 11,
+        "prodName": "STRETCH FIT SOLID SHIRT WITH SEAM DETAIL",
+        "prodDesc": "Solid shirt with seam detail, made from comfort cotton fabric.",
+        "prodPrice": 499,
+        "image":"women_shirt3.jpg",
+        "huvudKat": 1,
+        "underKat": 3
+    },
+    {
+        "id": 12,
+        "prodName": "STRIPED COTTON SHIRT",
+        "prodDesc": "Striped shirt made from 100% cotton fabric. Features a straight fit, Kent collar, button-up fastening concealed by a placket, long puff sleeves with buttoned cuffs and a rounded hem with side vents.",
+        "prodPrice": 699,
+        "image":"women_shirt4.jpg",
+        "huvudKat": 1,
+        "underKat": 3
+    },
+    {
+        "id": 13,
+        "prodName": "NAPPA JACKET WITH TAB DETAIL",
+        "prodDesc": "Nappa jacket made of sheepskin leather. Featuring a tailored fit, stand collar with a buttoned tab, front zip fastening, two side zip pockets, long sleeves with zipped cuffs, lining and several inside pockets.",
+        "prodPrice": 2699,
+        "image":"men_jacket1.jpg",
+        "huvudKat": 2,
+        "underKat": 1
+    },
+    {
+        "id": 14,
+        "prodName": "GREY SUEDE JACKET",
+        "prodDesc": "Suede jacket made from sheepskin leather. Features a slim fit, collar with tab and snap button, zip fastening, two side zip pockets, long sleeves with zipped cuffs, side tabs for adjusting the fit, decorative appliqué, lining and several inside pockets.",
+        "prodPrice": 3299,
+        "image":"men_jacket2.jpg",
+        "huvudKat": 2,
+        "underKat": 1
+    },
+    {
+        "id": 14,
+        "prodName": "DOWN THREE-QUARTER-LENGTH COAT",
+        "prodDesc": "Slim fit three-quarter-length coat with natural down feather interior and Tuscan detail, made from a blend of fabrics.",
+        "prodPrice": 2499,
+        "image":"men_jacket3.jpg",
+        "huvudKat": 2,
+        "underKat": 1
+    },
+    {
+        "id": 15,
+        "prodName": "GREEN NAPPA LEATHER JACKET",
+        "prodDesc": "Green nappa jacket made of sheepskin leather. Features a slim fit, stand-up collar with snap button, zip-up fastening, two side zip pockets, long sleeves with zips and snap buttons on the cuffs, side tabs for adjusting the fit, decorative appliqué, lining and several inside pockets.",
+        "prodPrice": 2699,
+        "image":"men_jacket4.jpg",
+        "huvudKat": 2,
+        "underKat": 1
+    },
+    {
+        "id": 16,
+        "prodName": "MERINO WOOL POLO-STYLE SWEATER",
+        "prodDesc": "Exude elegance with must-have pieces. Polo-style sweater in 100% merino wool. Features a straight fit, Kent collar, two-button placket fastening, short sleeves and ribbed trims.",
+        "prodPrice": 699,
+        "image":"men_shirt1.jpg",
+        "huvudKat": 2,
+        "underKat": 2
+    },
+    {
+        "id": 17,
+        "prodName": "COTTON TEXTURED WEAVE POLO SHIRT",
+        "prodDesc": "Textured weave polo shirt made of 100% cotton. Features a casual fit, Kent collar, two-button placket fastening, long sleeves and side vents at the hem.",
+        "prodPrice": 499,
+        "image":"men_shirt2.jpg",
+        "huvudKat": 2,
+        "underKat": 2
+    },
+    {
+        "id": 19,
+        "prodName": "ELASTIC T-SHIRT",
+        "prodDesc": "Gently elasticated casual-fit T-shirt with a round neck and short sleeves.",
+        "prodPrice": 249,
+        "image":"men_shirt3.jpg",
+        "huvudKat": 2,
+        "underKat": 2
+    },
+    {
+        "id": 20,
+        "prodName": "COTTON POLO SHIRT",
+        "prodDesc": "Solid-colour polo shirt with contrasting details made from 100% cotton fabric.",
+        "prodPrice": 249,
+        "image":"men_shirt4.jpg",
+        "huvudKat": 2,
+        "underKat": 2
+    },
+    {
+        "id": 21,
+        "prodName": "BLACK LEATHER BROGUES",
+        "prodDesc": "Leather shoes with decorative broguing on the vamp. Featuring rubber soles and cowhide leather lining and insoles.",
+        "prodPrice": 1399,
+        "image":"men_shoe1.jpg",
+        "huvudKat": 2,
+        "underKat": 3
+    },
+    {
+        "id": 22,
+        "prodName": "BROWN LEATHER MONK SHOES",
+        "prodDesc": "Brown monk shoes made of top-quality tumbled leather with double buckled straps.",
+        "prodPrice": 2499,
+        "image":"men_shoe2.jpg",
+        "huvudKat": 2,
+        "underKat": 3
+    },
+    {
+        "id": 23,
+        "prodName": "BROWN NAPPA LEATHER OXFORD SHOES",
+        "prodDesc": "Brown nappa leather brogues featuring leather lining and insoles.",
+        "prodPrice": 1999,
+        "image":"men_shoe3.jpg",
+        "huvudKat": 2,
+        "underKat": 3
+    },
+    {
+        "id": 24,
+        "prodName": "BLUE SPLIT SUEDE LEATHER OXFORD SHOES",
+        "prodDesc": "Blue split suede leather Oxford shoes. Featuring leather lining and insoles and stitched and glued rubber soles.",
+        "prodPrice": 1999,
+        "image":"men_shoe4.jpg",
+        "huvudKat": 2,
+        "underKat": 3
+    },
+    {
+        "id": 25,
+        "prodName": "DOWN PUFFER GILET",
+        "prodDesc": "Puffer gilet with natural down interior. Features a straight fit, collar with hood, zip fastening, two side zip pockets, decorative appliqué, adjustable hem and lining.",
+        "prodPrice": 699,
+        "image":"boys_jacket1.jpg",
+        "huvudKat": 3,
+        "underKat": 1
+    },
+    {
+        "id": 26,
+        "prodName": "DOWN PUFFER JACKET",
+        "prodDesc": "Jacket with natural down interior. Features a straight fit, collar with hood, zip fastening, two side zip pockets, long sleeves with elastic cuffs, adjustable hem and lining.",
+        "prodPrice": 699,
+        "image":"boys_jacket2.jpg",
+        "huvudKat": 3,
+        "underKat": 1
+    },
+    {
+        "id": 27,
+        "prodName": "GREY LEATHER JACKET WITH HOOD",
+        "prodDesc": "Grey sheepskin jacket. Features a straight fit, collar with removable hood, zip fastening, two side pockets, long sleeves with elastic cuffs and lining.",
+        "prodPrice": 1599,
+        "image":"boys_jacket3.jpg",
+        "huvudKat": 3,
+        "underKat": 1
+    },
+    {
+        "id": 28,
+        "prodName": "INTERWOVEN CARDIGAN",
+        "prodDesc": "Interwoven cardigan made of 100% cotton fabric. Features a straight fit, raised collar, zip fastening, two side pockets, long sleeves and ribbed trims.",
+        "prodPrice": 499,
+        "image":"boys_jacket4.jpg",
+        "huvudKat": 3,
+        "underKat": 1
+    },
+    {
+        "id": 29,
+        "prodName": "BLUE OXFORD SHIRT",
+        "prodDesc": "Blue shirt made from 100% Oxford cotton fabric. Straight cut, Kent collar, front button fastening, one patch breast pocket, long sleeves with buttoned cuffs and the brand name embroidered inside the placket.",
+        "prodPrice": 399,
+        "image":"boys_shirt1.jpg",
+        "huvudKat": 3,
+        "underKat": 2
+    },
+    {
+        "id": 30,
+        "prodName": "PLAIN COTTON SHIRT",
+        "prodDesc": "Plain shirt made from 100% cotton fabric. Features a straight fit, button-down Kent collar, front button fastening, long sleeves with rounded buttoned cuffs and hem with side gussets.",
+        "prodPrice": 399,
+        "image":"boys_shirt2.jpg",
+        "huvudKat": 3,
+        "underKat": 2
+    },
+    {
+        "id": 31,
+        "prodName": "EMBELLISHED SWEATER WITH MOCK LAYER DETAIL",
+        "prodDesc": "Embellished weave sweater made of a cotton and cashmere blend. Features a straight fit, double round neckline, long sleeves and ribbed trims.",
+        "prodPrice": 399,
+        "image":"boys_shirt3.jpg",
+        "huvudKat": 3,
+        "underKat": 2
+    },
+    {
+        "id": 32,
+        "prodName": "GINGHAM CHECK SHIRT",
+        "prodDesc": "Gingham shirt made of 100% cotton fabric. Features a straight fit, Kent collar, front button fastening and long sleeves with rounded buttoned cuffs.",
+        "prodPrice": 399,
+        "image":"boys_shirt4.jpg",
+        "huvudKat": 3,
+        "underKat": 2
+    },
+    {
+        "id": 33,
+        "prodName": "BROWN SPLIT SUEDE ANKLE BOOTS",
+        "prodDesc": "Brown ankle boots made of split suede leather. Featuring fabric lining with leather bands and insoles. Rubber soles.",
+        "prodPrice": 799,
+        "image":"boys_shoe1.jpg",
+        "huvudKat": 3,
+        "underKat": 3
+    },
+    {
+        "id": 34,
+        "prodName": "BROWN LEATHER SNEAKERS",
+        "prodDesc": "Brown leather sneakers with perforated detailing. Featuring fabric lining and insoles. Two-tone rubber soles.",
+        "prodPrice": 799,
+        "image":"boys_shoe2.jpg",
+        "huvudKat": 3,
+        "underKat": 3
+    },
+    {
+        "id": 35,
+        "prodName": "GREY LEATHER SNEAKERS",
+        "prodDesc": "Grey nubuck leather sneakers with split suede detail. Featuring perforated detailing, fabric ankle collars and nappa leather piece on the heels with embossed brand logo.",
+        "prodPrice": 799,
+        "image":"boys_shoe3.jpg",
+        "huvudKat": 3,
+        "underKat": 3
+    },
+    {
+        "id": 36,
+        "prodName": "WHITE LEATHER SNEAKERS",
+        "prodDesc": "White leather sneakers with blue split suede and hand-stitched detail on the heels. Fabric lining and insoles.",
+        "prodPrice": 699,
+        "image":"boys_shoe4.jpg",
+        "huvudKat": 3,
+        "underKat": 3
+    },
+    {
+        "id": 37,
+        "prodName": "GREY CARDIGAN WITH HOOD DETAIL",
+        "prodDesc": "Grey cardigan made of 100% cotton fabric. Features a flared fit, collar with hood, zip fastening, two side patch pockets, long sleeves and decorative appliqué.",
+        "prodPrice": 699,
+        "image":"girls_jacket1.jpg",
+        "huvudKat": 4,
+        "underKat": 1
+    },
+    {
+        "id": 38,
+        "prodName": "DOWN JACKET WITH RUFFLE DETAIL",
+        "prodDesc": "Jacket with a natural down feather interior and ruffle detail on the hem. Features a flared fit, collar with detachable hood, zip fastening, stretch waist at the back, two side zip pockets, long sleeves with elastic cuffs and lining.",
+        "prodPrice": 799,
+        "image":"girls_jacket2.jpg",
+        "huvudKat": 4,
+        "underKat": 1
+    },
+    {
+        "id": 39,
+        "prodName": "NAVY BLUE LEATHER JACKET",
+        "prodDesc": "Fitted navy blue sheepskin jacket with ruffle detail. Features a Kent collar, snap button fastening, two side pockets, long sleeves and lining.",
+        "prodPrice": 1399,
+        "image":"girls_jacket3.jpg",
+        "huvudKat": 4,
+        "underKat": 1
+    },
+    {
+        "id": 40,
+        "prodName": "REVERSIBLE BOMBER-STYLE DOWN JACKET",
+        "prodDesc": "Reversible bomber-style jacket with natural down interior. The main model features a straight fit, round neck, zip fastening, two side snap button pockets, long sleeves and elastic trims.",
+        "prodPrice": 799,
+        "image":"girls_jacket4.jpg",
+        "huvudKat": 4,
+        "underKat": 1
+    },
+    {
+        "id": 41,
+        "prodName": "SLIM FIT SATIN TROUSERS",
+        "prodDesc": "Satin-finish, five-pocket trousers made of comfortable cotton fabric. They feature a slim fit, zip fly and logo button fastening, adjustable waist with elastic panels and inside buttons and belt loops.",
+        "prodPrice": 399,
+        "image":"girls_jean1.jpg",
+        "huvudKat": 4,
+        "underKat": 2
+    },
+    {
+        "id": 42,
+        "prodName": "SLIM FIT CHECKED TROUSERS",
+        "prodDesc": "Check trousers with front detail made of a blend of fabrics. They feature a slim fit, side zip fastening, two side pockets, two welt pockets at the back, adjustable waist with elastic panels and inside buttons, decorative appliqué and rolled-up hems.",
+        "prodPrice": 499,
+        "image":"girls_jean2.jpg",
+        "huvudKat": 4,
+        "underKat": 2
+    },
+    {
+        "id": 43,
+        "prodName": "SLIM FIT JEANS WITH EMBROIDERY",
+        "prodDesc": "Slim fit jeans with five pockets and embroidery detail, made of comfort cotton fabric. Featuring zip fly and logo button fastening, an adjustable waistband with elastic tabs and inside buttons and belt loops.",
+        "prodPrice": 499,
+        "image":"girls_jean3.jpg",
+        "huvudKat": 4,
+        "underKat": 2
+    },
+    {
+        "id": 44,
+        "prodName": "GREY, SLIM FIT JEANS WITH VELVET",
+        "prodDesc": "Grey, slim fit jeans with five pockets and velvet details, made of comfort cotton fabric. They feature a zip fly and logo button fastening, an adjustable waist with elastic panels and inside buttons and belt loops.",
+        "prodPrice": 499,
+        "image":"girls_jean4.jpg",
+        "huvudKat": 4,
+        "underKat": 2
+    },
+    {
+        "id": 45,
+        "prodName": "BROWN SPLIT SUEDE ANKLE BOOTS",
+        "prodDesc": "Brown split suede ankle boots. Featuring ankle straps in the same material as the upper with gold metal buckles and studs. Fabric lining with leather bands and insoles.",
+        "prodPrice": 799,
+        "image":"girls_shoe1.jpg",
+        "huvudKat": 4,
+        "underKat": 3
+    },
+    {
+        "id": 46,
+        "prodName": "WHITE LEATHER PLIMSOLLS WITH POMPOM DETAIL",
+        "prodDesc": "Leather sneakers with embossed animal print detail and split suede and metallic nappa details on the tongue and heel. Rose gold metallic appliqués and removable pompoms detail.",
+        "prodPrice": 699,
+        "image":"girls_shoe2.jpg",
+        "huvudKat": 4,
+        "underKat": 3
+    },
+    {
+        "id": 47,
+        "prodName": "PINK PATENT LEATHER SHOES",
+        "prodDesc": "Pink leather shoes with a patent finish. They feature broguing and scalloped details, a pink velvet bow, a metal crest on the heel, fabric lining, leather insoles and rubber soles with topstitched welt.",
+        "prodPrice": 799,
+        "image":"girls_shoe3.jpg",
+        "huvudKat": 4,
+        "underKat": 3
+    },
+    {
+        "id": 48,
+        "prodName": "PINK LEATHER SNEAKERS",
+        "prodDesc": "Pink split suede sneakers. Featuring metallic leather heel piece with metal crest, gold metal details and tied bow in the front. Fabric lining and insoles and rubber soles.",
+        "prodPrice": 699,
+        "image":"girls_shoe4.jpg",
+        "huvudKat": 4,
+        "underKat": 3
+    }
+    
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "stadname": "Dresses",
+        "huvudkategori": 1
+        
+    },{
+        "id": 2,
+        "stadname": "Jackets",
+        "huvudkategori": 1
+    },{
+        "id": 3,
+        "stadname": "Shirts",
+        "huvudkategori": 1
+    },{
+        "id": 4,
+        "stadname": "Jackets",
+        "huvudkategori": 2
+    },{
+        "id": 5,
+        "stadname": "Shirts",
+        "huvudkategori": 2
+    },{
+        "id": 6,
+        "stadname": "Shoes",
+        "huvudkategori": 2
+    },{
+        "id": 7,
+        "stadname": "Jackets",
+        "huvudkategori": 3
+    },{
+        "id": 8,
+        "stadname": "Shirts",
+        "huvudkategori": 3
+    },{
+        "id": 9,
+        "stadname": "Shoes",
+        "huvudkategori": 3
+    },{
+        "id": 10,
+        "stadname": "Jackets",
+        "huvudkategori": 4
+    },{
+        "id": 11,
+        "stadname": "Jeans",
+        "huvudkategori": 4
+    },{
+        "id": 12,
+        "stadname": "Shoes",
+        "huvudkategori": 4
+    }
+]
