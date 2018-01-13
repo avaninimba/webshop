@@ -43,7 +43,7 @@ function createListItem(itemData, index) {
     
     /* Image */
     var image = document.createElement("img");
-    image.src = "./assets/" + itemData.image;
+    image.src = "./images/" + itemData.image;
 
     /* Price */
     var prodPrice = document.createElement("span");

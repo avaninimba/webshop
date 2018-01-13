@@ -78,13 +78,13 @@ button {
     border: none;
     border-radius: 8px;
     padding: 0.5em 1em;
-    background: #5596F5;
-    color: #fff;
+    background: #999933;
+    color: #ffffff;
     margin-top: 1em;
     cursor: pointer;
 }
 button:hover {
-    background-color: #447CD0;
+    background-color: #cccc99;
 }
 
 @media (max-width: 640px) {
