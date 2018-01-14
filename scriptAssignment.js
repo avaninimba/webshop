@@ -52,7 +52,7 @@ function createListItem(itemData, index) {
     
     /* Button */
     var button = document.createElement("button");
-    button.innerHTML = '<i class="fa fa-cart-arrow-down" aria-hidden="true"></i>' + "&nbsp;&nbsp;&nbsp;" + "Lägg till i kundvagnen";
+    button.innerHTML = '<i class="fa fa-cart-arrow-down" aria-hidden="true"></i>' + "&nbsp;&nbsp;&nbsp;" + "SHOP NOW";
     button.onclick = function() {
         shoppingCart.push(itemData);
         counter = document.querySelector("#counter");

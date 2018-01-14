@@ -37,7 +37,7 @@ header a:hover {
 
 #main {
     color: black;
-    font-weight: bold;
+    font-weight: light;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -52,6 +52,7 @@ ul {
 
 li {
     height: 90vh;
+    width: 40vh;
     position: relative;
     display: flex;
     flex-direction: column;
@@ -63,7 +64,11 @@ li {
 }
 
 li h3 {
-    font-size: 0.75em;
+    font-size: 1.0em;
+    margin: 0;
+}
+li p {
+    font-size: 0.6em;
     margin: 0;
 }
 li img {
@@ -71,12 +76,12 @@ li img {
     width: auto;
 }
 li span {
-    font-size: 1.3em;
+    font-size: 0.9em;
 }
 button {
-    font-size: 1.5em;
+    font-size: 1.1em;
     border: none;
-    border-radius: 8px;
+    border-radius: 0px;
     padding: 0.5em 1em;
     background: #999933;
     color: #ffffff;
@@ -92,44 +97,4 @@ button:hover {
         padding-top: 60px;
         font-size: 0.5em;
     }
-}
-
-/* Shopping cart */
-#main > div > h2 {
-    font-size: 3em;
-    text-align: center;
-}
-#main > div ul {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-}
-#main > div li {
-    font-size: 0.7em;
-    height: auto;
-    margin: 1em;
-    background: #F5F5F5;
-    border: 2px solid #447CD0;
-    border-radius: 10px;
-}
-#main > div li img {
-    height: 15em;
-    width: auto;
-}
-#main > div li button {
-    background-color: #E64E4E;
-}
-#main > div li button:hover {
-    background-color: #E23D3D;
-}
-
-#main > div div {
-    text-align: center;
-    margin-bottom: 4em;
-}
-#main > div > h2 {
-    margin-top: 1em;
 }
