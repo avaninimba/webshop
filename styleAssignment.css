@@ -38,8 +38,6 @@ header a:hover {
 #main {
     color: black;
     font-weight: light;
-    display: flex;
-    flex-direction: row;
     align-items: center;
     justify-content: center;
 }
