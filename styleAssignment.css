@@ -84,10 +84,10 @@ li span {
     border-radius: 0px;
     padding: 0.5em 1em;
     background: #999933;
-    text-decoration-color: #ffffff;
-    text-decoration-style: none;
+    text-decoration: none;
     margin-top: 1em;
     cursor: pointer;
+    
 }
 .btn:hover {
     background-color: #cccc99;
