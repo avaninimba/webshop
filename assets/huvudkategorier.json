@@ -1,15 +1,15 @@
 [
     {
         "id": 1,
-        "countryname": "Women"
+        "category": "Women"
     },{
         "id": 2,
-        "countryname": "Men"
+        "category": "Men"
     },{
         "id": 3,
-        "countryname": "Boys"
+        "category": "Boys"
     },{
         "id": 4,
-        "countryname": "Girls"
+        "category": "Girls"
     }
 ]
