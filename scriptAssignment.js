@@ -71,7 +71,9 @@ fetch("assets/underkategorier.json")
             var underKatSub = (underKat[i].subcategory);
             var underKatHuvud = (underKat[i].huvudkategori);
 
-            var underHuvudKat = '<li id="uk'+ underKatId +'" onclick="visaUkProdukter('+ underKatId +')"><a href="#">'+ underKatSub +'</a></li>';
+            /*var underHuvudKat = '<li id="hk'+ underKatId +'" onclick="visaUKProdukter('+ underKatId +')"><a class="dropdown-item" href="#">'+ underKatSub +'</a></li>';
+            */
+            var underHuvudKat = '<a class="dropdown-item" href="#" onclick="visaUKProdukter('+ underKatId +'id="hk'+ underKatId +'"</a>';
 
             if (underKatHuvud == 1) {
                 $('#hk1').append(underHuvudKat);
@@ -87,4 +89,38 @@ fetch("assets/underkategorier.json")
             }
 
         };
+
+        visaHKProdukter = function(val){
+            
+                    $(".main").empty();
+            
+                    var value = val + 1;
+                            
+            
+                    for(i = 0; i < itemsData.length; i++) {
+            
+                        var produktId = (itemsData[i].id);
+                        var produktName = (itemsData[i].prodName);
+                        var produktDesc = (itemsData[i].prodDesc);
+                        var produktImage = "images/" + (itemsData[i].image);
+                        var produktPrice = (itemsData[i].prodPrice);
+                        var produktHK = (itemsData[i].huvudKat);
+                        var produktUK = (itemsData[i].underKat);
+                        var produktCard = "";
+            
+                        var produktCard = '<div class="col-lg-3"><div class="card" onclick="visaEnProdukt('+ produktId +')"><img class="card-img-top" src="' + produktImage + '"><div class="card-body"><h4 class="card-title">' + produktName + '</h4><div class="card-footer "><p>Pris: ' + produktPrice + '</p></div></div></div></div>';
+            
+                        
+                        // Skriv en IF sats som kollar att det bara skrivs ut rätt produkter
+                        if ( produktHK == value) {
+                        
+                        //$('.allProducts').html(" ");
+                        
+                        $('.main').append(produktCard);
+                        }
+                        
+                    };
+                };
+
+    
     };
