@@ -29,7 +29,7 @@ function createUIFromLoadedItemsData() {
                     
                     
         
-                    var produktCard = '<div class="col-lg-3"><div class="card"><img class="card-img-top" src="' + produktImage + '"><div class="card-body"><h4 class="card-title">' + produktName + '</h4><div class="card-text"><p>' + produktPrice + '</p></div></div></div></div>';
+                    var produktCard = '<div class="col-lg-3"><div class="card"><img class="card-img-top" src="' + produktImage + '"><div class="card-body"><h4 class="card-title">' + produktName + '</h4><div class="card-text"><p>' + produktPrice + ' kr</p><div class="btn btn-primary"><a href="#" >SHOP NOW</a></div></div></div></div></div>';
                     $('.main').append(produktCard);
                     
                     
