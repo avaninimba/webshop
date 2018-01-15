@@ -108,7 +108,7 @@ fetch("assets/underkategorier.json")
                         var produktUK = (itemsData[i].underKat);
                         var produktCard = "";
             
-                        var produktCard = '<div class="col-lg-3"><div class="card" onclick="visaEnProdukt('+ produktId +')"><img class="card-img-top" src="' + produktImage + '"><div class="card-body"><h4 class="card-title">' + produktName + '</h4><div class="card-footer "><p>Pris: ' + produktPrice + '</p></div></div></div></div>';
+                        var produktCard = '<div class="col-lg-3"><div class="card-deck"><div class="card text-center"><img class="card-img-top" src="' + produktImage + '"><div class="card-body"><h4 class="card-title">' + produktName + '</h4><div class="card-text"><p>' + produktPrice + ' kr</p><div class="btn btn-light"><a href="#" >SHOP NOW</a></div></div></div></div></div></div>';
             
                         
                         // Skriv en IF sats som kollar att det bara skrivs ut rätt produkter
